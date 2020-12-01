@@ -1,0 +1,35 @@
+.container {
+    background-color: white;
+    margin: 300px auto;
+    width: 30%;
+    position: relative;
+    padding: 50px 20px;
+}
+
+.punchline {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+}
+
+.punchline_content {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+.punchline_author {
+    margin-bottom: 10px;
+}
+
+.punchline_button {
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.punchline_button:hover {
+    outline: none;
+}
